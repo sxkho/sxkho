@@ -1,3 +1,5 @@
+https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="center">I am a second year engineering student in Information & Communication Technology at KTH, the Royal Institute of Technology.</h3>
 
