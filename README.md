@@ -1,6 +1,3 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2WjI_YKATZmPJeOhNp4bh5&ust=1677339444747000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDz_7--rv0CFQAAAAAdAAAAABAT![image](https://user-images.githubusercontent.com/114192161/221220911-b21e3d5a-c5b2-448c-a176-c2a408920e56.png)
-
-
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="center">I am a second year engineering student in Information & Communication Technology at KTH, the Royal Institute of Technology.</h3>
 
