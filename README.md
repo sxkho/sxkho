@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serkan</h1>
+<h1 align="center">Hi, I'm Serkan👋</h1>
 <h3 align="center">I am a second year engineering student in Information & Communication Technology at KTH, the Royal Institute of Technology.</h3>
 
 - 🌱 I’m currently learning **functional programming and networks**
