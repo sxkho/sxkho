@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Serkan👋</h1>
 <h3 align="center">I am a fourth year engineering student in Computer Science at KTH, Royal Institute of Technology.</h3>
 
-- 🌱 I’m currently learning **Visualization**
+- 🌱 I’m currently learning **Visualization and Advanced Algorithms**
 
 - 📫 How to reach me **serkan.anar24@gmail.com**
 
